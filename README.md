@@ -4,4 +4,4 @@ As I'm reaching the end of Foundations Course from The Odin Project, I realize h
 
 This project specifically was really great to put to practice some Math skills, problems regarding the input of the user, loops and event-listeners.
 
-You can check it's deploy on:
+You can check it's deploy on: https://jvkf.github.io/odin-etch-a-sketch/
